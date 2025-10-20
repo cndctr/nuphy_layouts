@@ -1,7 +1,24 @@
 {
   "name": "NuPhy Air75 V2",
   "vendorProductId": 435499590,
-  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "macros": [
+    "{KC_LGUI,KC_R}yt-dlp{KC_ENT}",
+    "{KC_LGUI,KC_R}\"C:\\Program Files\\1cv8\\common\\1cestart.exe\" ENTERPRISE /S\"kenobi\\erp\"{KC_ENT}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
   "layers": [
     [
       "KC_ESC",
@@ -356,8 +373,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "MACRO(0)",
+      "MACRO(1)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
