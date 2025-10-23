@@ -4,7 +4,7 @@
   "macros": [
     "{KC_LGUI,KC_R}yt-dlp{KC_ENT}",
     "{KC_LGUI,KC_R}\"C:\\Program Files\\1cv8\\common\\1cestart.exe\" ENTERPRISE /S\"kenobi\\erp\"{KC_ENT}",
-    "",
+    "{KC_LGUI,KC_L}",
     "",
     "",
     "",
@@ -393,7 +393,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "MACRO(2)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
